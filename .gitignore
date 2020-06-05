@@ -26,3 +26,10 @@ hs_err_pid*
 target
 *.iml
 results
+demo/img/sc
+demo/img/th
+demo/img/cv
+results
+.txt
+*.DS_Store
+demo/img/.DS_Store
